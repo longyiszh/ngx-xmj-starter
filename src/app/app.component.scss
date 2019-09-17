@@ -7,3 +7,9 @@ $titleF: 50;
 .title {
   font-size: $titleF + px;
 }
+
+li {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+}
